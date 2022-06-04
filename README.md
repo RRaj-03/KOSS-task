@@ -1,8 +1,8 @@
-#### My solution to this task are added in the above task 1 and task 2 files
+# My solution to this task are added in the above task 1 and task 2 files
 
 
-### My task
-# Async Await in Python
+# My task
+## Async Await in Python
 
 **NOTE: Use Python3.8 and above**
 
@@ -10,7 +10,7 @@ This task, enlists the async await feature in Python.
 
 This task contains three parts of subtasks that needs to be completed for implementing Async Await in Python.
 
-## Background:
+### Background:
 
 Python provides parallel programming using threads and multiprocessing. However, due to Global Interpreter Lock, Python cannot provide parallelism similar to what multi-threading works in other languages, such as Java/C++.
 
@@ -20,7 +20,7 @@ In order to tackle that, different languages have provided language constructs f
 
 For example, in JavaScript we use concepts of Promise, and in Python, it provides Async/Await - Asyncio. So it uses the concurrency paradigm.
 
-## What do you need to do:
+### What do you need to do:
 
 - Task 1 - Create a 3 coroutines for execution and see if you can parallelise the execution.
 
@@ -112,14 +112,14 @@ For example, in JavaScript we use concepts of Promise, and in Python, it provide
     </details>
 
 
-## Materials:
+### Materials:
 
 * https://realpython.com/async-io-python/
 * https://docs.python.org/3/library/asyncio.html
 * https://docs.aiohttp.org/en/stable/#client-example
 
-## Tech Stack:
+### Tech Stack:
 * Asyncio, Async/Await in Python, AioHttp
 
-## Learning from the Task:
+### Learning from the Task:
 * From this task, you will learn that how Asyncio achieves concurrency in Python.
